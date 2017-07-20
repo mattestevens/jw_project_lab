@@ -1,0 +1,3 @@
+hello file3
+and another one
+end of file_3
